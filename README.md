@@ -59,6 +59,9 @@ We focused on solving the core onboarding and user flow friction issues by:
 
 ## 📞 Contact
 
+Team Members: Parks RPK: rpkparks@gmail.com
+              Roja Shuruthika Kathiravan : rpkroja@gmail.com
+
 If you're a mentor, reviewer, or fellow hacker and want to reach out:
 
 - 📧 hugo@genhax.com
